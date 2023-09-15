@@ -3,7 +3,7 @@
 # I'm Stefan and I'm based in the United Kingdom.
 I'm currently working on building my portfolio to start my data career. 
 
-Currently, I'm particularly interested in:
+I'm particularly interested in:
 + CS Fundamentals: DSA
 + Programming Languages: Python
 + Databases: SQL Server
