@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# I'm Stefan and I'm based in the United Kingdom.
+### I'm Stefan and I'm based in the United Kingdom.
 I'm currently working on building my portfolio to start my data career. 
 
 I'm particularly interested in:
