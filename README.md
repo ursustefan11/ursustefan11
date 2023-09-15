@@ -13,9 +13,7 @@ I'm particularly interested in:
 I currently possess and/or learning for the following certifications:
 - [x] Azure Data Engineer Associate
 - [ ] Azure Database Administrator
-- [ ] Power BI Data Analyst Associate[^1]
 
-[^1]: I have studied the learning path, but have not taken the exam and don't intend to.
 
 <!--
 **ursustefan11/ursustefan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
