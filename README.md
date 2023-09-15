@@ -1,5 +1,20 @@
 ### Hi there 👋
 
+# I'm Stefan and I'm based in the United Kingdom.
+I'm currently working on building my portfolio to start my data career. 
+
+Currently, I'm particularly interested in:
+Programming Languages: Python
+Databases: SQL Server
+
+### Certifications:
+I currently possess and/or learning for the following certifications:
+- [x] Azure Data Engineer Associate
+- [ ] Azure Database Administrator
+- [ ] Power BI Data Analyst Associate[^]1
+
+[^1]: I have studied the learning path, but have not taken the exam.
+
 <!--
 **ursustefan11/ursustefan11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,4 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![](https://visitcount.itsvg.in/api?id=ursustefan11&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=ursustefan11&label=Profile%20Views&color=11&icon=5&pretty=false)](https://visitcount.itsvg.in)-->
