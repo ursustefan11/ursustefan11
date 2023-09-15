@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### I'm Stefan and I'm based in the United Kingdom.
-I'm currently working on building my portfolio to start my data career. 
+I'm currently working on building my portfolio to start my data career. You can check the project I've worked on down below, in the pinned section.
 
 I'm particularly interested in:
 + CS Fundamentals: DSA
