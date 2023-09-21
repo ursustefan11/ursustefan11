@@ -10,7 +10,7 @@ I'm particularly interested in:
 + Tools: Integration Services for SQL Server, PySpark
 
 ### Certifications:
-I currently possess and/or learning for the following certifications:
+I currently possess and/or I'm learning for the following certifications:
 - [x] Azure Data Engineer Associate
 - [ ] Azure Database Administrator
 
