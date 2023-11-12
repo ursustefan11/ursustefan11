@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-### I'm Stefan and I'm based in the United Kingdom.
-I'm currently working on building my portfolio to start my data career. You can check the project I've worked on down below, in the pinned section.
+### I'm Stefan.
+<!--I'm currently working on building my portfolio to start my data career. You can check the project I've worked on down below, in the pinned section.
 
 I'm particularly interested in:
 + CS Fundamentals: DSA
@@ -12,7 +12,7 @@ I'm particularly interested in:
 ### Certifications:
 I currently possess and/or I'm learning for the following certifications:
 - [x] Azure Data Engineer Associate
-- [ ] Azure Database Administrator
+- [ ] Azure Database Administrator-->
 
 
 <!--
